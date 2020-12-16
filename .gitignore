@@ -1,0 +1,16 @@
+node_modules
+dump
+static
+src/private/xlsTemplateOutputs
+src/data/.store/
+.DS_Store
+npm-debug.log*
+coverage
+dump.rdb
+*.un~
+*.swp
+*.swo
+.vscode/
+__tests__
+dist
+*.log
